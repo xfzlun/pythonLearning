@@ -105,3 +105,5 @@ venv.bak/
 
 #ignore folder
 /.vscode
+.vscode/settings.json
+.vscode/settings.json
