@@ -27,6 +27,8 @@ print "I love fishc.com"  -- 这是python2的语法，不适用python3
 到下一个语句  ALT+P
 '''
 
+# print 8次
+
 
 
 
