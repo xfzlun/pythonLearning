@@ -58,4 +58,7 @@ print(stringsample2)
 stringsample3='Let\'s go'
 print(stringsample3)
 
-stringsample4
+
+#如果碰上一个字符串中有很多反斜杠c:\Program Files\Intel\WiFi\Help -- 在字符串前面加上一个字母"r"
+str = r'C:\now'
+print(str)
